@@ -6,7 +6,7 @@ An AI-powered interview preparation platform.
 - AI Resume Review
 - Technical Interview Practice
 - HR Interview Simulator
-- Coding Challenges
+- Coding Challgenges
 - Progress Tracking
 
 Created by Trupti Sahoo 🚀
